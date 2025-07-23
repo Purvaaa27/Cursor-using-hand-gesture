@@ -6,7 +6,7 @@ This project is dedicated to developing an innovative gesture-based cursor contr
 
 ## Key Features 🌟
 
-***Real-time Hand Movement Capture:** Utilizes OpenCV to capture live hand movements from a camera feed.
+**Real-time Hand Movement Capture:** Utilizes OpenCV to capture live hand movements from a camera feed.
 **Gesture-to-Cursor Translation:** Translates detected hand gestures into precise cursor actions, including movement, clicking, and scrolling.
 **Enhanced Human-Computer Interaction:** Offers an accessible and intuitive alternative to conventional input methods, broadening the scope of how users interact with technology.
 
